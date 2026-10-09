@@ -1,0 +1,6 @@
+*.key
+*.pem
+*.img
+*.tgz
+*.deb
+__pycache__/

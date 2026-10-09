@@ -1,0 +1,361 @@
+{
+  "schema": 1,
+  "archive_date": "2026-10-10",
+  "source": {
+    "url": "https://cdnorg.d.miui.com/V9.2.4.0.KXFCNEK/mocha_images_V9.2.4.0.KXFCNEK_20180406.0000.00_4.4_cn_0d819c67da.tgz",
+    "bytes": 577568120,
+    "md5": "0d819c67da12b16135cb93ac77338176",
+    "sha256": "ce012501c4cfa986778b5afb9cec854181707ff16cf7055e88b4715f9256768b",
+    "download_verified": true,
+    "flashed": false
+  },
+  "excluded_paths": [
+    "etc/firmware/marvel_p2p.conf",
+    "etc/firmware/marvel_wpa.conf",
+    "etc/firmware/nvram.txt"
+  ],
+  "files": [
+    {
+      "path": "miui-system/etc/firmware/BCM4350C0.hcd",
+      "original_path": "/etc/firmware/BCM4350C0.hcd",
+      "bytes": 41784,
+      "sha256": "30703fafffc5dafe79fe9656ec9fb4a48bef957aceff98584f4908a091fac304",
+      "source": "MIUI V9.2.4.0.KXFCNEK official system image",
+      "license_status": "Original rights reserved; file-specific redistribution grant not established",
+      "hardware_compatibility": "Reference archive; not automatically installed or flashed"
+    },
+    {
+      "path": "miui-system/etc/firmware/bq27520_atl.bqfs",
+      "original_path": "/etc/firmware/bq27520_atl.bqfs",
+      "bytes": 182774,
+      "sha256": "6442071411dc77cba7f25947eddd3c1244bbae77e291056ebb47438fe028e504",
+      "source": "MIUI V9.2.4.0.KXFCNEK official system image",
+      "license_status": "Original rights reserved; file-specific redistribution grant not established",
+      "hardware_compatibility": "Reference archive; not automatically installed or flashed"
+    },
+    {
+      "path": "miui-system/etc/firmware/bq27520_lgc.bqfs",
+      "original_path": "/etc/firmware/bq27520_lgc.bqfs",
+      "bytes": 182774,
+      "sha256": "3d76770d480debc5460f3aec4e5977ccfbd6dc1f41c32a7151c969b9abc5f93d",
+      "source": "MIUI V9.2.4.0.KXFCNEK official system image",
+      "license_status": "Original rights reserved; file-specific redistribution grant not established",
+      "hardware_compatibility": "Reference archive; not automatically installed or flashed"
+    },
+    {
+      "path": "miui-system/etc/firmware/fw_bcmdhd.bin",
+      "original_path": "/etc/firmware/fw_bcmdhd.bin",
+      "bytes": 529913,
+      "sha256": "0e8f4f54977e993668f1011b89d1591f26d3c817b0a0f0028e31a83ff850d574",
+      "source": "MIUI V9.2.4.0.KXFCNEK official system image",
+      "license_status": "Original rights reserved; file-specific redistribution grant not established",
+      "hardware_compatibility": "Reference archive; not automatically installed or flashed"
+    },
+    {
+      "path": "miui-system/etc/firmware/fw_bcmdhd_apsta.bin",
+      "original_path": "/etc/firmware/fw_bcmdhd_apsta.bin",
+      "bytes": 529913,
+      "sha256": "0e8f4f54977e993668f1011b89d1591f26d3c817b0a0f0028e31a83ff850d574",
+      "source": "MIUI V9.2.4.0.KXFCNEK official system image",
+      "license_status": "Original rights reserved; file-specific redistribution grant not established",
+      "hardware_compatibility": "Reference archive; not automatically installed or flashed"
+    },
+    {
+      "path": "miui-system/etc/firmware/fw_bcmdhd_mfg.bin",
+      "original_path": "/etc/firmware/fw_bcmdhd_mfg.bin",
+      "bytes": 467797,
+      "sha256": "7f08c6739a4658dc12a26ec540596fb94ff9be49092e930e1b4c6a276baa565f",
+      "source": "MIUI V9.2.4.0.KXFCNEK official system image",
+      "license_status": "Original rights reserved; file-specific redistribution grant not established",
+      "hardware_compatibility": "Reference archive; not automatically installed or flashed"
+    },
+    {
+      "path": "miui-system/etc/firmware/fw_bcmdhd_p2p.bin",
+      "original_path": "/etc/firmware/fw_bcmdhd_p2p.bin",
+      "bytes": 529913,
+      "sha256": "0e8f4f54977e993668f1011b89d1591f26d3c817b0a0f0028e31a83ff850d574",
+      "source": "MIUI V9.2.4.0.KXFCNEK official system image",
+      "license_status": "Original rights reserved; file-specific redistribution grant not established",
+      "hardware_compatibility": "Reference archive; not automatically installed or flashed"
+    },
+    {
+      "path": "miui-system/etc/firmware/lp5521",
+      "original_path": "/etc/firmware/lp5521",
+      "bytes": 21,
+      "sha256": "4bdd927db6a7caec6254c23e219e99511abe57c68f7e31309b75b05895a67f81",
+      "source": "MIUI V9.2.4.0.KXFCNEK official system image",
+      "license_status": "Original rights reserved; file-specific redistribution grant not established",
+      "hardware_compatibility": "Reference archive; not automatically installed or flashed"
+    },
+    {
+      "path": "miui-system/etc/firmware/nvavp_aud_ucode.bin",
+      "original_path": "/etc/firmware/nvavp_aud_ucode.bin",
+      "bytes": 12560,
+      "sha256": "b87d99acdcc83618fb11d8401d918a823cbba726a99d3c5ce32d548b81fadb16",
+      "source": "MIUI V9.2.4.0.KXFCNEK official system image",
+      "license_status": "Original rights reserved; file-specific redistribution grant not established",
+      "hardware_compatibility": "Reference archive; not automatically installed or flashed"
+    },
+    {
+      "path": "miui-system/etc/firmware/nvavp_os_0ff00000.bin",
+      "original_path": "/etc/firmware/nvavp_os_0ff00000.bin",
+      "bytes": 15900,
+      "sha256": "4274e011ea7a80136d328c4b7c52aad2e1d6e8a6f83db789cee6793faba4222d",
+      "source": "MIUI V9.2.4.0.KXFCNEK official system image",
+      "license_status": "Original rights reserved; file-specific redistribution grant not established",
+      "hardware_compatibility": "Reference archive; not automatically installed or flashed"
+    },
+    {
+      "path": "miui-system/etc/firmware/nvavp_os_8ff00000.bin",
+      "original_path": "/etc/firmware/nvavp_os_8ff00000.bin",
+      "bytes": 15900,
+      "sha256": "ffe77276d3de7086cef5541bec055ac6fbe612d7b332a6d77c29de5b13ff2182",
+      "source": "MIUI V9.2.4.0.KXFCNEK official system image",
+      "license_status": "Original rights reserved; file-specific redistribution grant not established",
+      "hardware_compatibility": "Reference archive; not automatically installed or flashed"
+    },
+    {
+      "path": "miui-system/etc/firmware/nvavp_os_eff00000.bin",
+      "original_path": "/etc/firmware/nvavp_os_eff00000.bin",
+      "bytes": 15900,
+      "sha256": "4f71096a1ab183d02a7c793fc2fff8631a6285de608f9351adcb5d87d03f0b06",
+      "source": "MIUI V9.2.4.0.KXFCNEK official system image",
+      "license_status": "Original rights reserved; file-specific redistribution grant not established",
+      "hardware_compatibility": "Reference archive; not automatically installed or flashed"
+    },
+    {
+      "path": "miui-system/etc/firmware/nvavp_os_f7e00000.bin",
+      "original_path": "/etc/firmware/nvavp_os_f7e00000.bin",
+      "bytes": 15900,
+      "sha256": "600da77e4e57651872d5d81bffa4c3f9a3272fafefd237be4288fcea8ce9f782",
+      "source": "MIUI V9.2.4.0.KXFCNEK official system image",
+      "license_status": "Original rights reserved; file-specific redistribution grant not established",
+      "hardware_compatibility": "Reference archive; not automatically installed or flashed"
+    },
+    {
+      "path": "miui-system/etc/firmware/nvavp_vid_ucode_alt.bin",
+      "original_path": "/etc/firmware/nvavp_vid_ucode_alt.bin",
+      "bytes": 39852,
+      "sha256": "506b7f9e1d4d56c8dc828a2e776e383db7d1301e45e317f3b05286809d23a312",
+      "source": "MIUI V9.2.4.0.KXFCNEK official system image",
+      "license_status": "Original rights reserved; file-specific redistribution grant not established",
+      "hardware_compatibility": "Reference archive; not automatically installed or flashed"
+    },
+    {
+      "path": "miui-system/etc/firmware/sd8797_uapsta.bin",
+      "original_path": "/etc/firmware/sd8797_uapsta.bin",
+      "bytes": 513884,
+      "sha256": "74f5e220984b170a7a4db3df793e44972c5657848b6af98182f182cfa26b3b36",
+      "source": "MIUI V9.2.4.0.KXFCNEK official system image",
+      "license_status": "Original rights reserved; file-specific redistribution grant not established",
+      "hardware_compatibility": "Reference archive; not automatically installed or flashed"
+    },
+    {
+      "path": "miui-system/etc/firmware/sd8897_uapsta.bin",
+      "original_path": "/etc/firmware/sd8897_uapsta.bin",
+      "bytes": 662996,
+      "sha256": "44512f18f29d6c3e96ee51c8ad13d94e28bcaa438ba3f1708f50163672dcea1b",
+      "source": "MIUI V9.2.4.0.KXFCNEK official system image",
+      "license_status": "Original rights reserved; file-specific redistribution grant not established",
+      "hardware_compatibility": "Reference archive; not automatically installed or flashed"
+    },
+    {
+      "path": "miui-system/etc/firmware/tegra12x/fecs.bin",
+      "original_path": "/etc/firmware/tegra12x/fecs.bin",
+      "bytes": 272,
+      "sha256": "0f725c03d51aa90969b1418f851f101a6f7f74201817919fd6c1fa07281dd869",
+      "source": "MIUI V9.2.4.0.KXFCNEK official system image",
+      "license_status": "Original rights reserved; file-specific redistribution grant not established",
+      "hardware_compatibility": "Reference archive; not automatically installed or flashed"
+    },
+    {
+      "path": "miui-system/etc/firmware/tegra12x/gpccs.bin",
+      "original_path": "/etc/firmware/tegra12x/gpccs.bin",
+      "bytes": 272,
+      "sha256": "5389b264d21a4025f98c8316b51ae5cd21064c205053de16465d3506ecc02623",
+      "source": "MIUI V9.2.4.0.KXFCNEK official system image",
+      "license_status": "Original rights reserved; file-specific redistribution grant not established",
+      "hardware_compatibility": "Reference archive; not automatically installed or flashed"
+    },
+    {
+      "path": "miui-system/etc/firmware/tegra12x/gpmu_ucode.bin",
+      "original_path": "/etc/firmware/tegra12x/gpmu_ucode.bin",
+      "bytes": 38284,
+      "sha256": "a247db0929105e88f2a93c959fa2e418a1bfa313f0f1f217846e3759056fe140",
+      "source": "MIUI V9.2.4.0.KXFCNEK official system image",
+      "license_status": "Original rights reserved; file-specific redistribution grant not established",
+      "hardware_compatibility": "Reference archive; not automatically installed or flashed"
+    },
+    {
+      "path": "miui-system/etc/firmware/tegra12x/NETB_img.bin",
+      "original_path": "/etc/firmware/tegra12x/NETB_img.bin",
+      "bytes": 54913,
+      "sha256": "1bb98c2394dd2b2c8204a9355c3d7cf7bb138010a6a4a1b0b46a8b4c72ad685c",
+      "source": "MIUI V9.2.4.0.KXFCNEK official system image",
+      "license_status": "Original rights reserved; file-specific redistribution grant not established",
+      "hardware_compatibility": "Reference archive; not automatically installed or flashed"
+    },
+    {
+      "path": "miui-system/etc/firmware/tegra12x/nvhost_msenc031.fw",
+      "original_path": "/etc/firmware/tegra12x/nvhost_msenc031.fw",
+      "bytes": 61184,
+      "sha256": "8ae026b105c46eece9bc186bcd2a4cbb2a9bf0e0d04cf7d2f948ea10ac8a0f15",
+      "source": "MIUI V9.2.4.0.KXFCNEK official system image",
+      "license_status": "Original rights reserved; file-specific redistribution grant not established",
+      "hardware_compatibility": "Reference archive; not automatically installed or flashed"
+    },
+    {
+      "path": "miui-system/etc/firmware/tegra12x/nvhost_tsec.fw",
+      "original_path": "/etc/firmware/tegra12x/nvhost_tsec.fw",
+      "bytes": 63744,
+      "sha256": "7c2f2648d8bb994798951385e4a719f351f60bada0abfeae77d3b684743242b3",
+      "source": "MIUI V9.2.4.0.KXFCNEK official system image",
+      "license_status": "Original rights reserved; file-specific redistribution grant not established",
+      "hardware_compatibility": "Reference archive; not automatically installed or flashed"
+    },
+    {
+      "path": "miui-system/etc/firmware/tegra12x/vic03_ucode.bin",
+      "original_path": "/etc/firmware/tegra12x/vic03_ucode.bin",
+      "bytes": 16128,
+      "sha256": "eff9e844759c91f1983ba343f21e40228daa5efca7c873cc288f2c1fbd2c1de2",
+      "source": "MIUI V9.2.4.0.KXFCNEK official system image",
+      "license_status": "Original rights reserved; file-specific redistribution grant not established",
+      "hardware_compatibility": "Reference archive; not automatically installed or flashed"
+    },
+    {
+      "path": "miui-system/etc/firmware/tfa9890.config",
+      "original_path": "/etc/firmware/tfa9890.config",
+      "bytes": 165,
+      "sha256": "a55b77748ad0f016982636b0ae5e1adbb3aa594bcff77018818556e48a79d892",
+      "source": "MIUI V9.2.4.0.KXFCNEK official system image",
+      "license_status": "Original rights reserved; file-specific redistribution grant not established",
+      "hardware_compatibility": "Reference archive; not automatically installed or flashed"
+    },
+    {
+      "path": "miui-system/etc/firmware/tfa9890_boot.patch",
+      "original_path": "/etc/firmware/tfa9890_boot.patch",
+      "bytes": 16,
+      "sha256": "bde1625ccb294878bd25d0eb7d934059505bd788a540f8f0795d8cacb2546058",
+      "source": "MIUI V9.2.4.0.KXFCNEK official system image",
+      "license_status": "Original rights reserved; file-specific redistribution grant not established",
+      "hardware_compatibility": "Reference archive; not automatically installed or flashed"
+    },
+    {
+      "path": "miui-system/etc/firmware/tfa9890_left.speaker",
+      "original_path": "/etc/firmware/tfa9890_left.speaker",
+      "bytes": 423,
+      "sha256": "8ea472b57c005819e93b53a0ec9cfeb20d12255afdbe99ae3b451abc4c3598f9",
+      "source": "MIUI V9.2.4.0.KXFCNEK official system image",
+      "license_status": "Original rights reserved; file-specific redistribution grant not established",
+      "hardware_compatibility": "Reference archive; not automatically installed or flashed"
+    },
+    {
+      "path": "miui-system/etc/firmware/tfa9890_left_music.eq",
+      "original_path": "/etc/firmware/tfa9890_left_music.eq",
+      "bytes": 180,
+      "sha256": "2c817a63428d9502be88b79e253411157ac5dc4eaf42c8c4fe759d3200aa9511",
+      "source": "MIUI V9.2.4.0.KXFCNEK official system image",
+      "license_status": "Original rights reserved; file-specific redistribution grant not established",
+      "hardware_compatibility": "Reference archive; not automatically installed or flashed"
+    },
+    {
+      "path": "miui-system/etc/firmware/tfa9890_left_music.preset",
+      "original_path": "/etc/firmware/tfa9890_left_music.preset",
+      "bytes": 87,
+      "sha256": "f2a0394439c577bd4b360e8e74e623072f0420d3e523be9d2fa9306b87d46ceb",
+      "source": "MIUI V9.2.4.0.KXFCNEK official system image",
+      "license_status": "Original rights reserved; file-specific redistribution grant not established",
+      "hardware_compatibility": "Reference archive; not automatically installed or flashed"
+    },
+    {
+      "path": "miui-system/etc/firmware/tfa9890_left_voice.eq",
+      "original_path": "/etc/firmware/tfa9890_left_voice.eq",
+      "bytes": 180,
+      "sha256": "0e7997e202477efa8a8bb2042156e52bc4e15ed232a95d3c555d69e23c8b176f",
+      "source": "MIUI V9.2.4.0.KXFCNEK official system image",
+      "license_status": "Original rights reserved; file-specific redistribution grant not established",
+      "hardware_compatibility": "Reference archive; not automatically installed or flashed"
+    },
+    {
+      "path": "miui-system/etc/firmware/tfa9890_left_voice.preset",
+      "original_path": "/etc/firmware/tfa9890_left_voice.preset",
+      "bytes": 87,
+      "sha256": "648daea688c16986edec7ac61cc9568b68d60cabb923b78484cf9075f04f2bdf",
+      "source": "MIUI V9.2.4.0.KXFCNEK official system image",
+      "license_status": "Original rights reserved; file-specific redistribution grant not established",
+      "hardware_compatibility": "Reference archive; not automatically installed or flashed"
+    },
+    {
+      "path": "miui-system/etc/firmware/tfa9890_right.speaker",
+      "original_path": "/etc/firmware/tfa9890_right.speaker",
+      "bytes": 423,
+      "sha256": "9b2699363a9b1ca9a8ec5dcd2b24dd6cabcb19b07e3407b839facdc6923adc55",
+      "source": "MIUI V9.2.4.0.KXFCNEK official system image",
+      "license_status": "Original rights reserved; file-specific redistribution grant not established",
+      "hardware_compatibility": "Reference archive; not automatically installed or flashed"
+    },
+    {
+      "path": "miui-system/etc/firmware/tfa9890_right_music.eq",
+      "original_path": "/etc/firmware/tfa9890_right_music.eq",
+      "bytes": 180,
+      "sha256": "2c817a63428d9502be88b79e253411157ac5dc4eaf42c8c4fe759d3200aa9511",
+      "source": "MIUI V9.2.4.0.KXFCNEK official system image",
+      "license_status": "Original rights reserved; file-specific redistribution grant not established",
+      "hardware_compatibility": "Reference archive; not automatically installed or flashed"
+    },
+    {
+      "path": "miui-system/etc/firmware/tfa9890_right_music.preset",
+      "original_path": "/etc/firmware/tfa9890_right_music.preset",
+      "bytes": 87,
+      "sha256": "52fcaea43bc6d18d6cf8c6f98bef119ab3024464928de22f16c3966efe35530d",
+      "source": "MIUI V9.2.4.0.KXFCNEK official system image",
+      "license_status": "Original rights reserved; file-specific redistribution grant not established",
+      "hardware_compatibility": "Reference archive; not automatically installed or flashed"
+    },
+    {
+      "path": "miui-system/etc/firmware/tfa9890_right_voice.eq",
+      "original_path": "/etc/firmware/tfa9890_right_voice.eq",
+      "bytes": 180,
+      "sha256": "0e7997e202477efa8a8bb2042156e52bc4e15ed232a95d3c555d69e23c8b176f",
+      "source": "MIUI V9.2.4.0.KXFCNEK official system image",
+      "license_status": "Original rights reserved; file-specific redistribution grant not established",
+      "hardware_compatibility": "Reference archive; not automatically installed or flashed"
+    },
+    {
+      "path": "miui-system/etc/firmware/tfa9890_right_voice.preset",
+      "original_path": "/etc/firmware/tfa9890_right_voice.preset",
+      "bytes": 87,
+      "sha256": "648daea688c16986edec7ac61cc9568b68d60cabb923b78484cf9075f04f2bdf",
+      "source": "MIUI V9.2.4.0.KXFCNEK official system image",
+      "license_status": "Original rights reserved; file-specific redistribution grant not established",
+      "hardware_compatibility": "Reference archive; not automatically installed or flashed"
+    },
+    {
+      "path": "miui-system/etc/firmware/tfa9890_rom.patch",
+      "original_path": "/etc/firmware/tfa9890_rom.patch",
+      "bytes": 2274,
+      "sha256": "a4fa4f39ffb725bffaff3e805cf6f72b548b501aa5d9deb06cf9aa38ceed9674",
+      "source": "MIUI V9.2.4.0.KXFCNEK official system image",
+      "license_status": "Original rights reserved; file-specific redistribution grant not established",
+      "hardware_compatibility": "Reference archive; not automatically installed or flashed"
+    },
+    {
+      "path": "miui-system/vendor/firmware/maxim_fp35.bin",
+      "original_path": "/vendor/firmware/maxim_fp35.bin",
+      "bytes": 49152,
+      "sha256": "bc7bde72730e29b21e0d4acb5440abf2bbee8da60f664cdd5e61479ae15d336f",
+      "source": "MIUI V9.2.4.0.KXFCNEK official system image",
+      "license_status": "Original rights reserved; file-specific redistribution grant not established",
+      "hardware_compatibility": "Reference archive; not automatically installed or flashed"
+    },
+    {
+      "path": "miui-system/vendor/firmware/touch_fusion.cfg",
+      "original_path": "/vendor/firmware/touch_fusion.cfg",
+      "bytes": 65,
+      "sha256": "d7d31435e8774213e6719cc840862a3e75baf7940c7a20a75b4b168c5ae00b50",
+      "source": "MIUI V9.2.4.0.KXFCNEK official system image",
+      "license_status": "Original rights reserved; file-specific redistribution grant not established",
+      "hardware_compatibility": "Reference archive; not automatically installed or flashed"
+    }
+  ]
+}
